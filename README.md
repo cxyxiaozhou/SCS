@@ -1,4 +1,4 @@
-# SCS
+
 
 STAFF OF CONTROL SYSTEN
 
